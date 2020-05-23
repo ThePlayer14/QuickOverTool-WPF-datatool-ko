@@ -1,0 +1,16 @@
+D:\code\new2\QuickOverTool-WPF-datatool-master\output\QuickDataTool.exe.config
+D:\code\new2\QuickOverTool-WPF-datatool-master\output\QuickDataTool.exe
+D:\code\new2\QuickOverTool-WPF-datatool-master\output\QuickDataTool.pdb
+D:\code\new2\QuickOverTool-WPF-datatool-master\QuickOverTool-WPF\obj\Debug\QuickDataTool-WPF.csprojAssemblyReference.cache
+D:\code\new2\QuickOverTool-WPF-datatool-master\QuickOverTool-WPF\obj\Debug\AboutWindow.g.cs
+D:\code\new2\QuickOverTool-WPF-datatool-master\QuickOverTool-WPF\obj\Debug\MainWindow.g.cs
+D:\code\new2\QuickOverTool-WPF-datatool-master\QuickOverTool-WPF\obj\Debug\QueryWindow.g.cs
+D:\code\new2\QuickOverTool-WPF-datatool-master\QuickOverTool-WPF\obj\Debug\App.g.cs
+D:\code\new2\QuickOverTool-WPF-datatool-master\QuickOverTool-WPF\obj\Debug\QuickDataTool_MarkupCompile.cache
+D:\code\new2\QuickOverTool-WPF-datatool-master\QuickOverTool-WPF\obj\Debug\QuickDataTool_MarkupCompile.lref
+D:\code\new2\QuickOverTool-WPF-datatool-master\QuickOverTool-WPF\obj\Debug\AboutWindow.baml
+D:\code\new2\QuickOverTool-WPF-datatool-master\QuickOverTool-WPF\obj\Debug\MainWindow.baml
+D:\code\new2\QuickOverTool-WPF-datatool-master\QuickOverTool-WPF\obj\Debug\QueryWindow.baml
+D:\code\new2\QuickOverTool-WPF-datatool-master\QuickOverTool-WPF\obj\Debug\QuickDataTool.g.resources
+D:\code\new2\QuickOverTool-WPF-datatool-master\QuickOverTool-WPF\obj\Debug\QuickDataTool.exe
+D:\code\new2\QuickOverTool-WPF-datatool-master\QuickOverTool-WPF\obj\Debug\QuickDataTool.pdb
