@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Diagnostics;
 using System.IO;
@@ -75,7 +75,7 @@ namespace QuickOverTool_WPF
                 return null;
             }
         }
-        // Validate DataTool and ow.keys
+        // Validate DataTool and Overwatch.keyring
         public static string[] DataTool(string path)
         {
             string version;
@@ -91,7 +91,7 @@ namespace QuickOverTool_WPF
                 version = null;
             }
             if (File.Exists(
-                Path.Combine(path, "ow.keys")))
+                Path.Combine(path, "Overwatch.keyring")))
                 keys = "ok";
             return new string[] { version, keys };
         }
