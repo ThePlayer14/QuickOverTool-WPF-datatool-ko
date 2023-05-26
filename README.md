@@ -1,5 +1,6 @@
 # QuickDataTool
 C# 및 WPF로 작성된 DataTool GUI - 원래의 Overwatch 1.14+ 
+
 이전 버전의 경우(OW2 이전 버전)
 
 한국 현지화
